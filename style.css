@@ -127,3 +127,9 @@ p#advice {
   bottom: -40px;
   cursor: pointer;
 }
+/*desktop view*/
+@media (min-width: 400px) {
+  .container {
+    width: 30%;
+  }
+}
