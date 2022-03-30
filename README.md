@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/api-advice-generator-vanilla-js-Sk7A2EbXc]
+- Live Site URL: [https://scott-wilder.github.io/]
 
 ## My process
 
