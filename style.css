@@ -82,6 +82,7 @@ article {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: Manrope;
 }
 .container {
   display: flex;
