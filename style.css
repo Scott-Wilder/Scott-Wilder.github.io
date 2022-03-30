@@ -130,6 +130,7 @@ p#advice {
 /*desktop view*/
 @media (min-width: 400px) {
   .container {
-    width: 30%;
+    width: 40rem;
+    height: 25rem;
   }
 }
